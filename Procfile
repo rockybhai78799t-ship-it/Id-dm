@@ -1,1 +1,1 @@
-worker: python ID-DM.PY
+worker: python bot.py
